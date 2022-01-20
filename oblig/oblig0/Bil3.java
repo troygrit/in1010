@@ -1,4 +1,4 @@
-package oblig.oblig0;
+package in1010.oblig.oblig0;
 
 class Bil3 {
     

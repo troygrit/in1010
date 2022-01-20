@@ -1,3 +1,5 @@
+package in1010.trix;
+
 class Personinfo {
     public static void main(String[] args) {
         System.out.println("Troy");

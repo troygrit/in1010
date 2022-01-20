@@ -1,4 +1,4 @@
-package trix;
+package in1010.trix;
 
 class SumHeltall {
     public static void main(String[] args) {
